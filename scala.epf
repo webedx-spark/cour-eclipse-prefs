@@ -1,0 +1,11 @@
+# @title Coursera Scala Prefs
+# @description Standard scala preferences
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun May 12 09:49:20 PDT 2013
+/instance/org.scala-ide.play2/org.scala-ide.play2.routeeditor.margin=4
+/instance/org.scala-ide.sdt.core/organizeimports.expandcollapse=preserve
+file_export_version=3.0
+/instance/org.scala-ide.sdt.core/organizeimports.groups=java$scala$org$com$org.coursera
+/instance/org.scala-ide.sdt.core/scala.tools.eclipse.ui.preferences.implicit.text.italic=true
