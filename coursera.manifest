@@ -1,0 +1,13 @@
+{
+    "type": "com.google.eclipse.mechanic.UriTaskProviderModel",
+    "metadata": {
+        "description": "Coursera standard workspace mechanic preferences",
+        "name": "Daniel Chia",
+        "contact": "danchia@coursera.org"
+    },
+    "tasks": [
+        "afterSave.epf",
+        "scala.epf",
+        "templates.epf"
+    ]
+}
