@@ -12,5 +12,5 @@ If you're on the Coursera Eclipse distribution, then your Workspace Mechanic is 
 If not, here's how to set it up:
 
 1. Install Workspace Mechanic from the update site at http://workspacemechanic.eclipselabs.org.codespot.com/git.update/mechanic
-2. Enter the Workspace Mechanic Preferences dialog (right click on the green circle with the arrow and choose preferences).
+2. Enter the Workspace Mechanic Preferences dialog (right click on the green circle with the checkmark in the footer and choose preferences).
 3. In "Task Sources," click "new" and add the following url: https://raw.github.com/webedx-spark/cour-eclipse-prefs/master/coursera.manifest
