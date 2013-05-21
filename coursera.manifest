@@ -8,6 +8,7 @@
     "tasks": [
         "afterSave.epf",
         "scala.epf",
-        "templates.epf"
+        "templates.epf",
+        "googleStyle.epf"
     ]
 }
