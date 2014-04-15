@@ -1,0 +1,8 @@
+# @title UTF-8 encoding
+# @description Makes sure workspace encoding is UTF-8
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Apr 14 17:07:01 PDT 2014
+/instance/org.eclipse.core.resources/encoding=UTF-8
+file_export_version=3.0

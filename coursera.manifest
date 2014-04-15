@@ -9,6 +9,7 @@
         "afterSave.epf",
         "scala.epf",
         "templates.epf",
-        "googleStyle.epf"
+        "googleStyle.epf",
+        "utf8.epf"
     ]
 }
